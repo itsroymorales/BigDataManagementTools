@@ -1,6 +1,6 @@
 // Databricks notebook source
 // MAGIC %python
-// MAGIC print("Hello World! Term Project Credit Card Fraud Detection using Random Forest Classification")
+// MAGIC print("Term Project Credit Card Fraud Detection using Random Forest Classification")
 
 // COMMAND ----------
 
